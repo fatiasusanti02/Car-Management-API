@@ -1,0 +1,43 @@
+.btn.btn-primary.option{
+    color: #AEB7E1;
+    background-color: white;
+    text-decoration-color: black;
+    border-radius: 0pc !important;
+    height: 36px;
+}
+
+.btn.btn-primary.add{
+    border-radius: 0px;
+    background-color: #0D28A6;
+    width: 140px;
+    height: 36px;
+}
+
+.btn.btn-primary.yes{
+    border-radius: 0px;
+    background-color: #0D28A6;
+    height: 36px;
+}
+
+.btn.btn-primary.no{
+    color: #AEB7E1;
+    background-color: white;
+    text-decoration-color: black;
+    border-radius: 0pc !important;
+    height: 36px;
+}
+
+.fa-solid.fa-plus{
+    margin-right: 1rem;
+}
+
+.btn.btn-danger.delt{
+    color: red;
+    border-radius: 0px;
+    background-color: white;
+    margin-bottom: 1rem;
+}
+
+.btn.btn-success.edit{
+    border-radius: 0px;
+}
